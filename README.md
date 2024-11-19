@@ -29,7 +29,7 @@ This project is a Task Management API built using Spring Boot. The API allows us
 ## Installation :
 1.Clone the repository : 
 ```bash
-$ git clone https://github.com/{user-name}/TaskManagementSystem.git
+$ git clone https://github.com/Prachethan1/TaskManagementSystem.git
 ```
 
 2.Import the project inside intellij idea:
